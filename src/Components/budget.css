@@ -1,0 +1,14 @@
+.scrollable-div {
+    overflow-x: scroll;
+    padding: 10px;
+    margin: 40px;
+    margin-top: 80px;
+    border: 1px solid #ccc;
+  }
+  .table-header {
+    background-color: hwb(193 82% 9%);
+  }
+  .table-body {
+    background-color: #ffffff;
+  }
+  
